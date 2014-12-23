@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.arif.tugasgambar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Ke2"
+            android:label="@string/title_activity_ke2" >
+        </activity>
+        <activity
+            android:name=".KeDua"
+            android:label="@string/title_activity_ke_dua" >
+        </activity>
+        <activity
+            android:name=".Ketiga"
+            android:label="@string/title_activity_ketiga" >
+        </activity>
+        <activity
+            android:name=".KeEmpat"
+            android:label="@string/title_activity_ke_empat" >
+        </activity>
+        <activity
+            android:name=".KeLima"
+            android:label="@string/title_activity_ke_lima" >
+        </activity>
+        <activity
+            android:name=".Keenam"
+            android:label="@string/title_activity_keenam" >
+        </activity>
+        <activity
+            android:name=".KeTujuh"
+            android:label="@string/title_activity_ke_tujuh" >
+        </activity>
+        <activity
+            android:name=".Kedelapan"
+            android:label="@string/title_activity_kedelapan" >
+        </activity>
+        <activity
+            android:name=".KeSembilan"
+            android:label="@string/title_activity_ke_sembilan" >
+        </activity>
+        <activity
+            android:name=".Kesepuluh"
+            android:label="@string/title_activity_kesepuluh" >
+        </activity>
+    </application>
+
+</manifest>

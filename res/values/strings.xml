@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tugas gambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ke2">Ke2</string>
+    <string name="title_activity_ke_dua">KeDua</string>
+    <string name="title_activity_ketiga">Ketiga</string>
+    <string name="title_activity_ke_empat">KeEmpat</string>
+    <string name="title_activity_ke_lima">KeLima</string>
+    <string name="title_activity_keenam">Keenam</string>
+    <string name="title_activity_ke_tujuh">KeTujuh</string>
+    <string name="title_activity_kedelapan">Kedelapan</string>
+    <string name="title_activity_ke_sembilan">KeSembilan</string>
+    <string name="title_activity_kesepuluh">Kesepuluh</string>
+
+</resources>
